@@ -1,0 +1,230 @@
+
+body{
+    background-color:  #ffffffe7;
+    margin: 0px;
+    font-family: serif;  
+    padding: 0px;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+
+}
+
+.top{
+    height: auto;
+    width: 100%;
+    margin: 0px;
+}
+
+.gradient{
+    background: rgb(2,0,36);
+    background-color: #363636;
+}
+
+.gradient-3{
+    background-color: #DCDCDC;
+}
+
+.pesquisa{
+    float: right;
+}
+
+.menu-inative{
+    color: #FFFFFF;
+}
+
+.txt-decoration a{
+    text-decoration: none;
+}
+
+.menu-logo{
+    height: 100%;
+    width: auto;
+    margin: auto;
+    list-style-type: none;
+}
+.menu-pl{
+    background-color: 	#4F4F4F;
+}
+
+.menu-logo a{
+    margin: auto;
+}
+
+.carousel-project{
+    background-image: url(imagens/destaque.jpg);
+    background-repeat: no-repeat;
+    height: 30rem;
+    background-size: 100%;
+}
+
+.cela-infor{
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+
+.cl-i-1{
+    border-left: 1px solid #807d7d7e;
+    border-right: 1px solid #807d7d7e;
+}
+
+.hover-bold a:hover{
+font-weight: bold;
+}
+ 
+.css-footer{
+    bottom: 0%;
+}
+
+.rede-social{
+    float: right;
+    text-align: center;
+    padding-top: 15px;
+
+}
+
+.rede-social ul{
+    list-style-type: none;
+}
+
+.rede-social ul li{
+    display: inline;
+    margin-right: 15px;
+}
+
+.text-center a{
+    color: red;
+}
+
+/* códigos do catalogo */
+
+
+/* códigos do contato */
+
+.gradient-2{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(215,249,255,1) 0%, rgba(255,255,255,1) 100%);
+}
+
+
+
+.circ-1{
+    border-radius: 50%;
+    height: 90%;
+    width: 150px;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    box-shadow: 2px 2px 4px #000000;
+    text-align: center;
+    padding: 1rem;
+}
+
+
+.contat-fil-2{
+    height: 30%;
+    width: 90%;
+    margin: auto;
+    color: black;
+    text-align: center;
+}
+
+.contat-fil-2 a{
+    text-decoration: none;
+    color: black;
+    font-size: 150%;
+}
+
+.box-contact-1{
+    border-radius: 3%;    
+}
+
+.box-contact-2{
+    border-left: 1px solid #4F4F4F;
+}
+
+.padding-2{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 3rem;
+    padding-right: 10px;
+    background-color: rgb(235, 235, 235);
+    border-radius: 3%;
+    height: 100%;
+}
+
+.padding-3{
+    padding-left: 5rem;
+}
+
+.button-registro{
+    border-radius: 10%;
+    background-color: rgb(75, 73, 73);
+    width: 7rem;
+    height: 2rem;
+}
+
+.button-registro a{
+    text-decoration: none;
+}
+
+.button-registro h5:hover{
+    color: red;
+}
+
+.button-registro h5{
+    font-size: 1.17rem;
+    color: #ffffff;
+}
+
+.contact-1{
+    padding-left: 3rem;
+}
+
+.contact-2{
+    margin-top: 1rem;
+}
+
+.contact-2 a{
+    color: black;
+}
+
+.contact-2 span{
+    padding-left: 0.5rem;
+    font-size: 1.2rem;
+}
+
+.contact-2 a:hover{
+    color: red;
+}
+
+/* códigos do sobre */
+.about{
+    width: 98%;
+    margin: auto;
+}
+
+.membros{
+    width: 30%;
+    float: left;
+    margin: 1% 1.66% 1% 1.66%;
+    text-align: center;
+    background-color: rgb(229, 228, 248);
+    padding-top: 2%;
+}
+
+.foto-1{
+    border-radius: 50%;
+    margin: auto;
+    height: 200px;
+    width: 200px;
+}
+
+.descrição ul{
+    list-style-type: none;
+    text-align: left;
+}
+
+.margin-top-bottom{
+    margin: 10px 0 10px 0;
+}
